@@ -1,0 +1,50 @@
+[
+  {
+    "formula": "H2O",
+    "name": "Water",
+    "type": "Covalent",
+    "color": "#3b82f6",
+    "components": ["H", "H", "O"],
+    "structure": "H-O-H"
+  },
+  {
+    "formula": "CO2",
+    "name": "Carbon Dioxide",
+    "type": "Covalent",
+    "color": "#9ca3af",
+    "components": ["C", "O", "O"],
+    "structure": "O=C=O"
+  },
+  {
+    "formula": "NaCl",
+    "name": "Sodium Chloride",
+    "type": "Ionic",
+    "color": "#f8fafc",
+    "components": ["Na", "Cl"],
+    "structure": "Na+ Cl-"
+  },
+  {
+    "formula": "NH3",
+    "name": "Ammonia",
+    "type": "Covalent",
+    "color": "#d8b4fe",
+    "components": ["N", "H", "H", "H"],
+    "structure": "NH3"
+  },
+  {
+    "formula": "CH4",
+    "name": "Methane",
+    "type": "Covalent",
+    "color": "#fdba74",
+    "components": ["C", "H", "H", "H", "H"],
+    "structure": "CH4"
+  },
+  {
+    "formula": "HCl",
+    "name": "Hydrochloric Acid",
+    "type": "Covalent (Polar)",
+    "color": "#fcd34d",
+    "components": ["H", "Cl"],
+    "structure": "H-Cl"
+  }
+]
